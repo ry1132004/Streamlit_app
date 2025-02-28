@@ -1,2 +1,2 @@
-1.streamlit
-2.streamlit_option_menu
+streamlit
+streamlit_option_menu
